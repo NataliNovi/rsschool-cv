@@ -47,8 +47,8 @@ English B1+, Belarusian, Russian
 
 ## Sertificates
 
-- Frontend development. ITGirl School, 2023
+- Frontend development. ITGirl School, 2023;
 - Vector Grafic. Adobe Illustrator CC
-  /St. Petersburg Polytechnic University, 2022/
-- Fundamentals of Graphic design /California Institute of the Arts, 2021/
-- English Intermediate Plus level (B1+) / Language studio Right Now, 2021/
+  /St. Petersburg Polytechnic University, 2022;
+- Fundamentals of Graphic design /California Institute of the Arts, 2021;
+- English Intermediate Plus level (B1+) / Language studio Right Now, 2021;
